@@ -8,6 +8,6 @@ This one will be used throughout my C# programming course at SkillFactory.
 
 ## To learn
 - Branching
-- Pushing
-- Pulling / Fetching
+- Pushing (done)
+- Pulling / Fetching (done)
 - Merging branches
