@@ -1,1 +1,2 @@
-Change file (Additional.md) in awesome-feature
+Changed file (Additional.md) in awesome-feature
+After changing it in master
