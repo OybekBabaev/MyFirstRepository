@@ -10,3 +10,4 @@ This one will be used throughout my C# programming course at SkillFactory.
 - Branching
 - Pushing
 - Pulling / Fetching
+- Merging branches
